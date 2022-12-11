@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Brocco!
+- 👀 I’m interested in literally everything
+- 🌱 I’m currently learning React, Java and C
+- 💞️ I’m looking to collaborate on react
+- 📫 How to reach me, you can't right now, sorry
