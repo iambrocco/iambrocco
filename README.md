@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brocco!
 - 👀 I’m interested in literally everything
-- 🌱 I’m currently learning React, Java and C
-- 💞️ I’m looking to collaborate on react
-- 📫 How to reach me, you can't right now, sorry
+- 🌱 I’m currently working on a ReactJS app
+- 💞️ I’m looking for help
+- 📫 Contact me via email: iambrocco@programmer.net
