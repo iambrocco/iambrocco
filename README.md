@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Brocco!
-- 🌱 I’m currently working on a Discord Bot w Dashboard
+- 🌱 I’m currently working on life
 - 🤔 
 - 📫 Contact me via email: iambrocco@programmer.net
